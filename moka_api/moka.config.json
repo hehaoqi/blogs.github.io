@@ -1,7 +1,7 @@
 {
     "theme": "moka",
     "title": "Moyu Blog",
-    "favicon": "/head.jpg",
+    "favicon": "favicon.ico",
     "author": "moyu",
     "description": "moyu Blog",
     "siteName": "site",
